@@ -1,8 +1,4 @@
-
-  <img align="right" width="50%" src="https://avatars.githubusercontent.com/u/96201154?v=4">
-
-
-  ## About Me
+ ## About Me
 
   - I'm 20 years old
   - Brazilian
