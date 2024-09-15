@@ -2,17 +2,12 @@
 
   - I'm 20 years old
   - Brazilian
-  - Intern at MZ Consult
-  - I’m currently learning PHP, React, ReactNative, NextJS and NodeJS
+  - Front-End at ZRP
 
   ## My Skills
 
   <p>
     <kbd>
-      <kbd><img class="img-icons" alt="Javascript" width="50" height="50" src="https://usefulangle.com/img/thumb/javascript.png"></kbd>
-      <kbd><img class="img-icons" alt="sass" width="50" height="50" src="https://img.icons8.com/?size=512&id=vEiU8UeAmv0x&format=png"></kbd>
-      <kbd><img class="img-icons" alt="css3" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></kbd>
-      <kbd><img class="img-icons" alt="html5" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png"></kbd>
       <kbd><img class="img-icons" alt="wordpress" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/174/174881.png"></kbd>
       <kbd><img class="img-icons" alt="React.js" width="50" height="50" src="https://react-cn.github.io/react/img/logo.svg"></kbd>
       <kbd><img class="img-icons" alt="next" width="50" height="50" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"></kbd>
