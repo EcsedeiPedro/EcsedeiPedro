@@ -14,18 +14,10 @@
       <kbd><img class="img-icons" alt="css3" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></kbd>
       <kbd><img class="img-icons" alt="html5" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png"></kbd>
       <kbd><img class="img-icons" alt="wordpress" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/174/174881.png"></kbd>
-    </kbd>
-  </p>
-  
-  ## Learning
-  
-  <p>
-   <kbd>
-      <kbd><img class="img-icons" alt="php" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919830.png"></kbd>
       <kbd><img class="img-icons" alt="React.js" width="50" height="50" src="https://react-cn.github.io/react/img/logo.svg"></kbd>
       <kbd><img class="img-icons" alt="next" width="50" height="50" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"></kbd>
       <kbd><img class="img-icons" alt="node" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/919/919825.png"></kbd>
-   </kbd>
+    </kbd>
   </p>
 
   <div>
