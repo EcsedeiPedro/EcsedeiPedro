@@ -1,6 +1,6 @@
  ## About Me
 
-  - I'm 20 years old
+  - I'm 22 years old
   - Brazilian
   - Front-End at ZRP
 
