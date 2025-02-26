@@ -3,6 +3,7 @@
   - I'm 22 years old
   - Brazilian
   - Front-End at ZRP
+  - Back-End at Artefaccto (Freelancer)
 
   ## My Skills
 
